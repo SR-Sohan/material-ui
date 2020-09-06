@@ -1,0 +1,12 @@
+.comments-area{
+    padding: 10px;
+}
+.post{
+    border-bottom: 1px solid gray;
+    padding: 10px;
+    background-color: #15C39A;
+    color: #fff;
+}
+.post h1{
+    text-transform: capitalize;
+}

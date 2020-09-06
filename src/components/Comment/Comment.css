@@ -1,0 +1,16 @@
+.comment-body{
+    border: 2px solid rgb(107, 129, 231);
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    margin: 15px auto;
+    width: 70%;
+    border-radius: 10px;
+}
+.comment-content{
+    margin-left: 25px;
+    padding-left: 10px;
+}
+.comment-content h4{
+    text-transform: capitalize;
+}
